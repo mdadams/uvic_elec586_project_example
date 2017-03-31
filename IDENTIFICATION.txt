@@ -1,0 +1,5 @@
+name "Michael Adams"
+student_id "V00000000"
+email "mdadams@ece.uvic.ca"
+section "T01"
+assignment "project"
