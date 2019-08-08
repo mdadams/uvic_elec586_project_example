@@ -1,6 +1,7 @@
 name "Michael Adams"
 student_id "V00000000"
 email "mdadams@ece.uvic.ca"
+term "2019-05"
 course "ECE596C"
 section "T01"
 assignment "cpp_project"
